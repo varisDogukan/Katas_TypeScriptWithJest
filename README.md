@@ -1,5 +1,7 @@
 # Codewars Kata
 
+[Codewars Profile](https://www.codewars.com/users/doqukan)
+
 ### To run Project
 
 ```shell
@@ -15,3 +17,4 @@
 - [Kata 4 solution](./src/kata4/kata4.ts) - [UnitTest](./src/kata4/kata4.test.ts)
 - [Kata 5 solution](./src/kata5/kata5.ts) - [UnitTest](./src/kata5/kata5.test.ts)
 - [Kata 6 solution](./src/kata6/kata6.ts) - [UnitTest](./src/kata6/kata6.test.ts)
+- [Kata 7 solution](./src/kata7/kata7.ts) - [UnitTest](./src/kata7/kata7.test.ts)
