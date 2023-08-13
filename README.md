@@ -18,3 +18,4 @@
 - [Kata 5 solution](./src/kata5/kata5.ts) - [UnitTest](./src/kata5/kata5.test.ts)
 - [Kata 6 solution](./src/kata6/kata6.ts) - [UnitTest](./src/kata6/kata6.test.ts)
 - [Kata 7 solution](./src/kata7/kata7.ts) - [UnitTest](./src/kata7/kata7.test.ts)
+- [Kata 8 solution](./src/kata8/kata8.ts) - [UnitTest](./src/kata8/kata8.test.ts)
